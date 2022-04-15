@@ -1,0 +1,24 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This is a web project using node.js,Express and MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitishNaskar/To-Do-List.git"
+  },
+  "keywords": [
+    "To",
+    "Do",
+    "List"
+  ],
+  "author": "Nitish Ranjan Naskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitishNaskar/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/NitishNaskar/To-Do-List#readme"
+}
